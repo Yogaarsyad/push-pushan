@@ -2,7 +2,7 @@
 const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
-const path = require('path');
+const path = require('path'); // ganteng kali mas bro
 
 
 dotenv.config();
