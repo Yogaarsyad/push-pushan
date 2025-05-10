@@ -11,4 +11,4 @@ app.get('/', (req, res) => {
   res.send('🎉 Online E-Learning Backend is running!');
 });
 
-export default app;
+export default app; // gaje coba aja push lu
